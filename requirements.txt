@@ -1,0 +1,3 @@
+jupyter
+sklearn
+scipy
